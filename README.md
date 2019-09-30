@@ -1,4 +1,4 @@
-# techdegree-p10-RestAPI FullStackAppWithReact&RestAPI
+Project 10 
 
 to use this app:
 
@@ -12,5 +12,3 @@ to use this app:
 4) open another terminal window and 'cd' to the '/client' directory and and run 'npm install' to install the required dependencies for the client side of the App, then type 'npm start' to start the application.
 
 5) in your browser go to 'http://localhost:3000/'
-
-6) Enjoy my App :)
